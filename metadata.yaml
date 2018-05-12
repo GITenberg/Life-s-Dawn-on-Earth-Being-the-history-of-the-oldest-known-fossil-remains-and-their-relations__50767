@@ -1,4 +1,8 @@
 _repo: Life-s-Dawn-on-Earth-Being-the-history-of-the-oldest-known-fossil-remains-and-their-relations__50767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50767-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dawson, John William, Sir
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '46073'
     url: http://www.gutenberg.org/2009/agents/46073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50767#Life-s-Dawn-on-Earth-Being-the-history-of-the-oldest-known-fossil-remains-and-their-relations_
 gutenberg_issued: '2015-12-25'
 gutenberg_type: Text
 identifiers:
